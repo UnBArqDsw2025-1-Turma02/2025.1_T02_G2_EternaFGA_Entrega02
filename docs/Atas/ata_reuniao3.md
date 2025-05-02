@@ -46,6 +46,8 @@ Na Tabela 1, são apresentados os participantes da reunião, juntamente com os i
 
 ## Compromissos
 
+
+
 ## Histórico de versões
 
 | Versão | Data       | Descrição                             | Autor(es)       | Revisor(es)    | Comentário do Revisor |
