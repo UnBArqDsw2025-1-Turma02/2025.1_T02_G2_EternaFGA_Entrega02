@@ -63,4 +63,4 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | Comentário do Revisor |
 | ------ | ---- | --------- | --------- | ----------- | -- |
-| 1.0 | 29/04/2025 | Adicionando ata de reunião da entrega 1 | Marcos |  |  |
+| 1.0 | 29/04/2025 | Adicionando ata de reunião da entrega 1 | Marcos | Manuella | Excelente! |
