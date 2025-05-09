@@ -22,8 +22,8 @@ Na Tabela 1, são apresentados os participantes da reunião, juntamente com os i
   <tr><td>Manuella Magalhães Valadares</td><td>22/1022720</td><td>:white_check_mark:</td></tr>
   <tr><td>Marcos Vieira Marinho</td><td>222021906</td><td>:x:</td></tr>
   <tr><td>Marcus Vinícius Figuerêdo Escobar</td><td>222006973</td><td>:x:</td></tr>
-  <tr><td>Mateus Henrique Queiroz Magalhães Sousa</td><td>222025950</td><td>:x:</td></tr>
-  <tr><td>Pedro Gois Marques Monteiro</td><td>222026386</td><td>:x:</td></tr>
+  <tr><td>Mateus Henrique Queiroz Magalhães Sousa</td><td>222025950</td><td>:white_check_mark:</td></tr>
+  <tr><td>Pedro Gois Marques Monteiro</td><td>222026386</td><td>:white_check_mark:</td></tr>
   <tr><td>William Bernardo da Silva</td><td>222021933</td><td>:x:</td></tr>
 </table>
 
