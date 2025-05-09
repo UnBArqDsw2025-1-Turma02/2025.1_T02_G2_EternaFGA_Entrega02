@@ -19,3 +19,6 @@
     - [Ata da Reunião 03](./Atas/ata_reuniao3.md)
     - [Ata da Reunião 04](./Atas/ata_reuniao4.md)
     - [Ata da Reunião 05](./Atas/ata_reuniao5.md)
+    - [Ata da Reunião 06](./Atas/ata_reunião6.md)
+    - [Ata da Reunião 07](./Atas/ata_reuniao7.md)
+    - [Ata da Reunião 08](./Atas/ata_reuniao8.md)
