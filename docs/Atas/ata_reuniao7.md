@@ -54,4 +54,4 @@ Durante o trabalho:
 
 | Versão | Data       | Descrição                             | Autor(es)       | Revisor(es)    | Comentário do Revisor |
 | ------ | ---------- | ------------------------------------- | --------------- | -------------- | --------------------- |
-| 1.0    | 07/05/2025 | Adição da ata de reunião da entrega 2 | [Maria Eduarda](https://github.com/DudaV228)  | Manuella Magalhães |                       |
+| 1.0    | 07/05/2025 | Adição da ata de reunião da entrega 2 | [Maria Eduarda](https://github.com/DudaV228)  | Manuella Magalhães |  Excelente  |
