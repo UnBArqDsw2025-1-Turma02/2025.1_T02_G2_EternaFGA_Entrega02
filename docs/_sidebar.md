@@ -14,8 +14,8 @@
     - [2.2.3. Diagrama de Estados](./Modelagem/2.2.3.DiagramaEstados.md)
   - [2.3. Modelagem UML Casos de Uso](./Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
 
-    - [2.3.1 Especificações de caso de uso: Enviar memória](./Modelagem/2.3.1.ModelagemOrganizacionalCasosdeUsoEnviarMemoria.md)
-    - [2.3.2 Especificações de caso de uso: Administrar memória](./Modelagem/2.3.2.ModelagemOrganizacionalCasosdeUsoAdministrarMemoria.md)
+    - [2.3.1 Especificações: Enviar memória](./Modelagem/2.3.1.ModelagemOrganizacionalCasosdeUsoEnviarMemoria.md)
+    - [2.3.2 Especificações: Administrar memória](./Modelagem/2.3.2.ModelagemOrganizacionalCasosdeUsoAdministrarMemoria.md)
 
   - [2.4. Participações - Modelagem](./Modelagem/2.4.ParticipacoesModelagem.md)
   - [2.5. Iniciativas Extras - Modelagem](./Modelagem/2.5.IniciativasExtras.md)
