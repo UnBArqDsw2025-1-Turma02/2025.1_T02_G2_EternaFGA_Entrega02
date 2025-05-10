@@ -50,4 +50,4 @@ Na Tabela 1, são apresentados os participantes da reunião, juntamente com os i
 
 | Versão | Data       | Descrição                             | Autor(es)       | Revisor(es)    | Comentário do Revisor |
 | ------ | ---------- | ------------------------------------- | --------------- | -------------- | --------------------- |
-| 1.0    | 09/05/2025 | Adição da ata de reunião da entrega 2 | [Manuella](https://github.com/manuvaladares)  | Marcos |                       |
+| 1.0    | 09/05/2025 | Adição da ata de reunião da entrega 2 | [Manuella](https://github.com/manuvaladares)  | Marcos | Nessa reunião conseguimos compreender melhor nosso projeto, Excelente!                     |
