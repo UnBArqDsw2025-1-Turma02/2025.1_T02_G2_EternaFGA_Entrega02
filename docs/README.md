@@ -26,10 +26,10 @@ A Eterna FGA é um museu afetivo virtual, uma aplicação web criada para eterni
 
 ## Screenshots da Segunda Entrega
 ### Diagrama de Caso de Uso
-![Diagrama de Caso de Uso](../assets/diagrama_caso_de_uso.png)
+![Diagrama de Caso de Uso](./assets/diagrama_caso_de_uso.png)
 
 ### Diagrama de Comunicação
-![Diagrama de Comunicação](../assets/diagrama_comunicacao.png)
+![Diagrama de Comunicação](./assets/diagrama_comunicacao.png)
 
 ## Há algo a ser executado?
 
